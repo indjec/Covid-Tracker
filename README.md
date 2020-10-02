@@ -4,8 +4,8 @@
 A Flutter app that tracks the present count of the number of Covid cases confirmed, recovered and the death numbers. 
 
 ## Screenshots
-![](assets/ss1.jpg)<br>
-![](assets/ss2.jpg)
+![](assets/ss1.jpg)![](assets/ss2.jpg)
+
 
 
 
