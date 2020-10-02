@@ -9,7 +9,8 @@ Home Page | Precautions
  ![](assets/ss1.jpg) | ![](assets/ss2.jpg)
   
 ## Extras used
- * API - [GitHub](http://github.com)
+ * [API](https://covid19.mathdro.id/api)
+ * [UI Inspiration](https://www.youtube.com/watch?v=zx6uMCoW2gQ&t=77s)
   
 
 
